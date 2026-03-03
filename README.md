@@ -6,13 +6,6 @@ It is built using Node.js, Express, MongoDB, and EJS following the MVC architect
 
 ---
 
-## 🚀 Live Demo
-
-> Deployed on Render  
-(Add your live URL here)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
